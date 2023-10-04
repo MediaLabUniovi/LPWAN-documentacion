@@ -1,0 +1,2 @@
+En este repositorio están subidos los documentos para entender qué es LoRaWAN, así como la programación de nodos con microcontroladores del entorno de Arduino y, finalmente, la instalación y uso de la infraestructura de procesado de datos utilizada en MediaLab UniOvi.
+In this repostory files to understand what is LoRaWAN, programming Arduino compatible microcontrollers to create nodes and, finally, the installation and use of the data processing infrastructure used in MediaLab UniOvi are uploaded.
