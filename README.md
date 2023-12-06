@@ -1,4 +1,4 @@
-# [ESP]()|[ENG]()
+# [ESP](https://github.com/medialablpwan/documentacion/blob/main/README.md)|[ENG](https://github.com/medialablpwan/documentacion/blob/main/README_ENG.md)
 
 <div align="center">
   
